@@ -1,4 +1,4 @@
-# Case for Bus Pirate v4 (and v3.6)
+# Case for FT232H IO Board of Adafruit
 This is a SCAD Model for the FT232H IO Board from Adafruit.
 <br>
 

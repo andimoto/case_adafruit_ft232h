@@ -14,7 +14,13 @@ of the printed case.
 
 ![buspirate01](img/adafruit-ft232h.png)
 <br>
+![buspirate01](img/ft232h_001.jpg)
+<br>
+![buspirate01](img/ft232h_002.jpg)
+<br>
+![buspirate01](img/ft232h_003.jpg)
 
+<br>
 <br>
 <br>
 <br>

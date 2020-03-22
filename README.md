@@ -7,11 +7,6 @@ This is a SCAD Model for the FT232H IO Board from Adafruit.
 - call "ft232h\_plate()" or "ft232h\_plate_top()" to generate top and bottom of the case
 
 
-**WORK IN PROGRESS!**
-This Model for OpenSCAD has not been printed by me. I will upload photos
-of the printed case.
-
-
 ![buspirate01](img/adafruit-ft232h.png)
 <br>
 ![buspirate01](img/ft232h_001.jpg)
